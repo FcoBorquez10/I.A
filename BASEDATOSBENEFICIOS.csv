@@ -1,4 +1,4 @@
-beneficiario,edad,sueldo,quintil,ahorros,antigüedad de postulacion(años),integrantes de familia
+beneficiario,edad,sueldo,quintil,ahorros,antiguedad de postulacion(anios),integrantes de familia
 si,48, $456.642 ,3, $2.190.569 ,5,4
 no,27, $382.980 ,4, $2.265.034 ,2,2
 no,16, $407.161 ,3, $2.147.978 ,4,4
